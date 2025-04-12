@@ -44,5 +44,18 @@
 36. https://getzbra.com/repo/
 37. https://p2kdev.github.io/repo
 38. https://apt.fouadraheb.com/
-
-Thats all for now, more'll be added soon!
+39. https://repo.packix.com/
+40. https://apt.alfhaily.me/
+41. https://apt.bingner.com/
+42. https://ib-soft.net/cydia/beta/
+43. https://build.frida.re/
+44. https://julioverne.github.io/
+45. https://repo.co.kr/
+46. https://ryleyangus.com/repo/
+47. https://donato-fiore.github.io/repo/
+48. https://apt.iamdega.com/
+49. https://repo.anthopak.dev/
+50. https://sezo.app/
+51. https://apt.iarrays.com/
+52. https://apt.autotouch.net/
+53. https://halo-michael.github.io/repo/
